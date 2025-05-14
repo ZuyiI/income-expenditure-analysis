@@ -1,6 +1,6 @@
 # income-expenditure-analysis
 
-This repository contains an exploratory data analysis (EDA) of the Filipino Family Income and Expenditure Survey (FIES) data, as provided by the Philippine Statistics Authority (PSA). The FIES is a comprehensive nationwide survey conducted every three years, offering valuable insights into the economic well-being of Filipino households. This project delves into a subset of the FIES dataset, comprising over 40,000 observations and 60 variables, to uncover trends and relationships between socio-demographic characteristics and household financial patterns.
+This repository contains an exploratory data analysis (EDA) of the Filipino Family Income and Expenditure Survey (FIES) data, as provided by the Philippine Statistics Authority (PSA). The FIES is a comprehensive nationwide survey conducted every three years, offering valuable insights into the economic well-being of Filipino households. This analysis delves into a subset of the FIES dataset, comprising over 40,000 observations and 60 variables, to uncover trends and relationships between socio-demographic characteristics and household financial patterns.
 
 ## Dataset
 
